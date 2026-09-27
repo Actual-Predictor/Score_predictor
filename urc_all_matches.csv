@@ -1,0 +1,756 @@
+date,season,home_team,away_team,home_score,away_score,playoff
+2021-09-24,2021-22,Zebre,Lions,26,38,0
+2021-09-24,2021-22,Cardiff,Connacht,33,21,0
+2021-09-24,2021-22,Ulster,Glasgow Warriors,35,29,0
+2021-09-25,2021-22,Benetton,Stormers,22,18,0
+2021-09-25,2021-22,Edinburgh,Scarlets,26,22,0
+2021-09-25,2021-22,Leinster,Bulls,31,3,0
+2021-09-25,2021-22,Munster,Sharks,42,17,0
+2021-09-26,2021-22,Dragons,Ospreys,23,27,0
+2021-10-01,2021-22,Connacht,Bulls,34,7,0
+2021-10-01,2021-22,Scarlets,Lions,36,13,0
+2021-10-02,2021-22,Benetton,Edinburgh,28,27,0
+2021-10-02,2021-22,Glasgow Warriors,Sharks,35,24,0
+2021-10-02,2021-22,Zebre,Ulster,3,36,0
+2021-10-02,2021-22,Munster,Stormers,34,18,0
+2021-10-02,2021-22,Ospreys,Cardiff,18,14,0
+2021-10-03,2021-22,Dragons,Leinster,6,7,0
+2021-10-08,2021-22,Ospreys,Sharks,13,27,0
+2021-10-08,2021-22,Ulster,Benetton,28,8,0
+2021-10-09,2021-22,Leinster,Zebre,43,7,0
+2021-10-09,2021-22,Glasgow Warriors,Lions,13,9,0
+2021-10-09,2021-22,Connacht,Dragons,22,35,0
+2021-10-09,2021-22,Edinburgh,Stormers,20,20,0
+2021-10-09,2021-22,Cardiff,Bulls,19,29,0
+2021-10-10,2021-22,Scarlets,Munster,13,43,0
+2021-10-15,2021-22,Dragons,Stormers,10,24,0
+2021-10-15,2021-22,Ulster,Lions,26,10,0
+2021-10-16,2021-22,Zebre,Glasgow Warriors,6,17,0
+2021-10-16,2021-22,Benetton,Ospreys,26,29,0
+2021-10-16,2021-22,Edinburgh,Bulls,17,10,0
+2021-10-16,2021-22,Leinster,Scarlets,50,15,0
+2021-10-16,2021-22,Cardiff,Sharks,23,17,0
+2021-10-16,2021-22,Munster,Connacht,20,18,0
+2021-10-22,2021-22,Glasgow Warriors,Leinster,15,31,0
+2021-10-22,2021-22,Scarlets,Benetton,34,28,0
+2021-10-23,2021-22,Zebre,Edinburgh,10,27,0
+2021-10-23,2021-22,Cardiff,Dragons,31,29,0
+2021-10-23,2021-22,Connacht,Ulster,36,11,0
+2021-10-23,2021-22,Ospreys,Munster,18,10,0
+2021-11-26,2021-22,Connacht,Ospreys,46,18,0
+2021-11-27,2021-22,Benetton,Glasgow Warriors,19,18,0
+2021-11-27,2021-22,Dragons,Edinburgh,14,30,0
+2021-11-27,2021-22,Leinster,Ulster,10,20,0
+2021-12-03,2021-22,Sharks,Bulls,30,16,0
+2021-12-03,2021-22,Edinburgh,Benetton,24,10,0
+2021-12-03,2021-22,Leinster,Connacht,47,19,0
+2021-12-04,2021-22,Ospreys,Ulster,19,13,0
+2021-12-04,2021-22,Stormers,Lions,19,37,0
+2021-12-04,2021-22,Glasgow Warriors,Dragons,33,14,0
+2021-12-24,2021-22,Zebre,Benetton,14,39,0
+2022-01-01,2021-22,Connacht,Munster,10,8,0
+2022-01-01,2021-22,Scarlets,Ospreys,22,19,0
+2022-01-08,2021-22,Edinburgh,Cardiff,34,10,0
+2022-01-08,2021-22,Glasgow Warriors,Ospreys,38,19,0
+2022-01-08,2021-22,Munster,Ulster,18,13,0
+2022-01-22,2021-22,Lions,Sharks,37,47,0
+2022-01-22,2021-22,Bulls,Stormers,26,30,0
+2022-01-28,2021-22,Dragons,Benetton,13,13,0
+2022-01-28,2021-22,Ulster,Scarlets,27,15,0
+2022-01-29,2021-22,Lions,Bulls,10,34,0
+2022-01-29,2021-22,Connacht,Glasgow Warriors,20,42,0
+2022-01-29,2021-22,Sharks,Stormers,22,22,0
+2022-01-29,2021-22,Zebre,Munster,17,34,0
+2022-01-29,2021-22,Ospreys,Edinburgh,23,19,0
+2022-01-29,2021-22,Cardiff,Leinster,29,27,0
+2022-02-04,2021-22,Ulster,Connacht,32,12,0
+2022-02-05,2021-22,Bulls,Lions,21,13,0
+2022-02-05,2021-22,Stormers,Sharks,20,10,0
+2022-02-11,2021-22,Leinster,Edinburgh,26,7,0
+2022-02-11,2021-22,Glasgow Warriors,Munster,13,11,0
+2022-02-12,2021-22,Lions,Stormers,10,32,0
+2022-02-12,2021-22,Bulls,Sharks,22,29,0
+2022-02-18,2021-22,Munster,Edinburgh,34,20,0
+2022-02-19,2021-22,Leinster,Ospreys,29,7,0
+2022-02-19,2021-22,Glasgow Warriors,Benetton,13,3,0
+2022-02-19,2021-22,Scarlets,Connacht,23,29,0
+2022-02-20,2021-22,Dragons,Ulster,0,12,0
+2022-02-25,2021-22,Zebre,Bulls,7,45,0
+2022-02-25,2021-22,Leinster,Lions,21,13,0
+2022-02-26,2021-22,Connacht,Stormers,19,17,0
+2022-02-26,2021-22,Benetton,Sharks,7,29,0
+2022-03-04,2021-22,Edinburgh,Connacht,56,8,0
+2022-03-04,2021-22,Ulster,Cardiff,48,12,0
+2022-03-05,2021-22,Benetton,Leinster,17,61,0
+2022-03-05,2021-22,Munster,Dragons,64,3,0
+2022-03-05,2021-22,Scarlets,Glasgow Warriors,35,10,0
+2022-03-06,2021-22,Ospreys,Zebre,27,22,0
+2022-03-11,2021-22,Sharks,Scarlets,37,20,0
+2022-03-12,2021-22,Bulls,Munster,29,24,0
+2022-03-12,2021-22,Ulster,Leinster,18,13,0
+2022-03-13,2021-22,Lions,Cardiff,37,20,0
+2022-03-13,2021-22,Stormers,Zebre,55,7,0
+2022-03-18,2021-22,Bulls,Scarlets,57,12,0
+2022-03-18,2021-22,Glasgow Warriors,Edinburgh,30,17,0
+2022-03-19,2021-22,Lions,Munster,23,21,0
+2022-03-19,2021-22,Sharks,Zebre,38,6,0
+2022-03-20,2021-22,Stormers,Cardiff,40,3,0
+2022-03-25,2021-22,Lions,Ospreys,45,15,0
+2022-03-25,2021-22,Munster,Benetton,51,22,0
+2022-03-26,2021-22,Stormers,Ulster,23,20,0
+2022-03-26,2021-22,Zebre,Scarlets,24,41,0
+2022-03-26,2021-22,Sharks,Edinburgh,5,21,0
+2022-03-26,2021-22,Bulls,Dragons,55,20,0
+2022-03-26,2021-22,Cardiff,Glasgow Warriors,32,28,0
+2022-03-26,2021-22,Connacht,Leinster,8,45,0
+2022-04-01,2021-22,Sharks,Dragons,51,3,0
+2022-04-01,2021-22,Glasgow Warriors,Zebre,40,12,0
+2022-04-02,2021-22,Benetton,Connacht,17,21,0
+2022-04-02,2021-22,Bulls,Ulster,34,16,0
+2022-04-02,2021-22,Lions,Edinburgh,15,9,0
+2022-04-02,2021-22,Stormers,Ospreys,29,13,0
+2022-04-02,2021-22,Munster,Leinster,19,34,0
+2022-04-02,2021-22,Scarlets,Cardiff,35,20,0
+2022-04-09,2021-22,Stormers,Bulls,19,17,0
+2022-04-09,2021-22,Sharks,Lions,37,10,0
+2022-04-09,2021-22,Cardiff,Scarlets,14,49,0
+2022-04-16,2021-22,Scarlets,Dragons,27,38,0
+2022-04-22,2021-22,Stormers,Glasgow Warriors,32,7,0
+2022-04-22,2021-22,Ulster,Munster,17,24,0
+2022-04-22,2021-22,Edinburgh,Zebre,29,26,0
+2022-04-23,2021-22,Bulls,Benetton,46,29,0
+2022-04-23,2021-22,Dragons,Scarlets,19,38,0
+2022-04-23,2021-22,Lions,Connacht,30,33,0
+2022-04-23,2021-22,Cardiff,Ospreys,6,22,0
+2022-04-23,2021-22,Sharks,Leinster,28,23,0
+2022-04-29,2021-22,Bulls,Glasgow Warriors,29,17,0
+2022-04-29,2021-22,Munster,Cardiff,42,21,0
+2022-04-30,2021-22,Lions,Benetton,37,29,0
+2022-04-30,2021-22,Sharks,Connacht,41,21,0
+2022-04-30,2021-22,Zebre,Dragons,23,18,0
+2022-04-30,2021-22,Ospreys,Scarlets,54,36,0
+2022-04-30,2021-22,Stormers,Leinster,20,13,0
+2022-04-30,2021-22,Edinburgh,Ulster,10,16,0
+2022-05-06,2021-22,Cardiff,Zebre,42,14,0
+2022-05-08,2021-22,Ospreys,Dragons,50,31,0
+2022-05-13,2021-22,Dragons,Cardiff,18,19,0
+2022-05-14,2021-22,Benetton,Zebre,39,17,0
+2022-05-20,2021-22,Benetton,Cardiff,69,21,0
+2022-05-20,2021-22,Ulster,Sharks,24,21,0
+2022-05-20,2021-22,Ospreys,Bulls,31,38,0
+2022-05-21,2021-22,Dragons,Lions,11,21,0
+2022-05-21,2021-22,Connacht,Zebre,22,20,0
+2022-05-21,2021-22,Scarlets,Stormers,21,26,0
+2022-05-21,2021-22,Edinburgh,Glasgow Warriors,28,11,0
+2022-05-21,2021-22,Leinster,Munster,35,25,0
+2022-06-03,2021-22,Ulster,Munster,36,17,0
+2022-06-04,2021-22,Bulls,Sharks,30,27,1
+2022-06-04,2021-22,Leinster,Glasgow Warriors,76,14,1
+2022-06-04,2021-22,Stormers,Edinburgh,28,17,1
+2022-06-10,2021-22,Leinster,Bulls,26,27,1
+2022-06-11,2021-22,Stormers,Ulster,17,15,1
+2022-06-18,2021-22,Stormers,Bulls,18,13,1
+2022-09-16,2022-23,Benetton,Glasgow Warriors,33,11,0
+2022-09-17,2022-23,Zebre,Leinster,29,33,0
+2022-09-17,2022-23,Cardiff,Munster,20,13,0
+2022-09-17,2022-23,Lions,Bulls,15,31,0
+2022-09-17,2022-23,Scarlets,Ospreys,23,23,0
+2022-09-17,2022-23,Edinburgh,Dragons,44,6,0
+2022-09-17,2022-23,Ulster,Connacht,36,10,0
+2022-09-23,2022-23,Zebre,Sharks,37,42,0
+2022-09-23,2022-23,Glasgow Warriors,Cardiff,52,24,0
+2022-09-23,2022-23,Leinster,Benetton,42,10,0
+2022-09-24,2022-23,Scarlets,Ulster,39,55,0
+2022-09-24,2022-23,Bulls,Edinburgh,33,31,0
+2022-09-24,2022-23,Stormers,Connacht,38,15,0
+2022-09-24,2022-23,Ospreys,Lions,27,28,0
+2022-09-25,2022-23,Dragons,Munster,23,17,0
+2022-09-30,2022-23,Bulls,Connacht,28,14,0
+2022-09-30,2022-23,Cardiff,Lions,18,31,0
+2022-09-30,2022-23,Ulster,Leinster,13,20,0
+2022-10-01,2022-23,Stormers,Edinburgh,34,18,0
+2022-10-01,2022-23,Ospreys,Glasgow Warriors,32,17,0
+2022-10-01,2022-23,Munster,Zebre,21,5,0
+2022-10-01,2022-23,Benetton,Scarlets,34,23,0
+2022-10-01,2022-23,Dragons,Sharks,19,20,0
+2022-10-07,2022-23,Connacht,Munster,20,11,0
+2022-10-07,2022-23,Edinburgh,Lions,19,22,0
+2022-10-08,2022-23,Zebre,Stormers,20,37,0
+2022-10-08,2022-23,Leinster,Sharks,54,34,0
+2022-10-08,2022-23,Scarlets,Cardiff,10,16,0
+2022-10-08,2022-23,Glasgow Warriors,Bulls,35,21,0
+2022-10-08,2022-23,Ulster,Ospreys,47,17,0
+2022-10-09,2022-23,Benetton,Dragons,34,14,0
+2022-10-14,2022-23,Connacht,Leinster,0,10,0
+2022-10-14,2022-23,Ospreys,Stormers,16,16,0
+2022-10-15,2022-23,Lions,Ulster,37,39,0
+2022-10-15,2022-23,Sharks,Glasgow Warriors,40,12,0
+2022-10-15,2022-23,Cardiff,Dragons,31,14,0
+2022-10-15,2022-23,Edinburgh,Benetton,53,8,0
+2022-10-15,2022-23,Munster,Bulls,31,17,0
+2022-10-15,2022-23,Scarlets,Zebre,36,12,0
+2022-10-21,2022-23,Benetton,Bulls,22,44,0
+2022-10-21,2022-23,Connacht,Scarlets,36,14,0
+2022-10-22,2022-23,Zebre,Edinburgh,19,38,0
+2022-10-22,2022-23,Leinster,Munster,27,13,0
+2022-10-22,2022-23,Cardiff,Stormers,30,24,0
+2022-10-23,2022-23,Dragons,Ospreys,32,25,0
+2022-10-28,2022-23,Glasgow Warriors,Benetton,37,0,0
+2022-10-28,2022-23,Scarlets,Leinster,5,35,0
+2022-10-29,2022-23,Lions,Stormers,22,31,0
+2022-10-29,2022-23,Dragons,Zebre,47,7,0
+2022-10-29,2022-23,Munster,Ulster,14,15,0
+2022-10-29,2022-23,Ospreys,Connacht,19,22,0
+2022-10-30,2022-23,Bulls,Sharks,40,27,0
+2022-10-30,2022-23,Cardiff,Edinburgh,17,25,0
+2022-11-25,2022-23,Stormers,Scarlets,36,19,0
+2022-11-25,2022-23,Ulster,Zebre,36,15,0
+2022-11-26,2022-23,Benetton,Edinburgh,24,17,0
+2022-11-26,2022-23,Bulls,Ospreys,43,26,0
+2022-11-26,2022-23,Leinster,Glasgow Warriors,40,5,0
+2022-11-26,2022-23,Munster,Connacht,24,17,0
+2022-11-27,2022-23,Lions,Dragons,33,25,0
+2022-11-27,2022-23,Sharks,Cardiff,0,35,0
+2022-12-02,2022-23,Sharks,Ospreys,25,10,0
+2022-12-02,2022-23,Edinburgh,Munster,17,38,0
+2022-12-03,2022-23,Stormers,Dragons,34,26,0
+2022-12-03,2022-23,Zebre,Glasgow Warriors,17,45,0
+2022-12-03,2022-23,Connacht,Benetton,38,19,0
+2022-12-03,2022-23,Bulls,Cardiff,45,9,0
+2022-12-03,2022-23,Leinster,Ulster,38,29,0
+2022-12-04,2022-23,Lions,Scarlets,32,15,0
+2022-12-23,2022-23,Sharks,Lions,37,10,0
+2022-12-23,2022-23,Stormers,Bulls,37,27,0
+2022-12-23,2022-23,Connacht,Ulster,20,22,0
+2022-12-23,2022-23,Glasgow Warriors,Edinburgh,16,10,0
+2022-12-24,2022-23,Benetton,Zebre,38,5,0
+2022-12-26,2022-23,Dragons,Cardiff,24,29,0
+2022-12-26,2022-23,Ospreys,Scarlets,34,14,0
+2022-12-26,2022-23,Munster,Leinster,19,20,0
+2022-12-30,2022-23,Edinburgh,Glasgow Warriors,25,32,0
+2022-12-31,2022-23,Zebre,Benetton,17,40,0
+2022-12-31,2022-23,Sharks,Bulls,47,20,0
+2022-12-31,2022-23,Stormers,Lions,40,8,0
+2023-01-01,2022-23,Cardiff,Ospreys,19,22,0
+2023-01-01,2022-23,Scarlets,Dragons,33,17,0
+2023-01-01,2022-23,Ulster,Munster,14,15,0
+2023-01-01,2022-23,Leinster,Connacht,41,12,0
+2023-01-06,2022-23,Dragons,Bulls,14,29,0
+2023-01-06,2022-23,Munster,Lions,33,3,0
+2023-01-07,2022-23,Benetton,Ulster,31,29,0
+2023-01-07,2022-23,Edinburgh,Zebre,24,17,0
+2023-01-07,2022-23,Cardiff,Scarlets,22,28,0
+2023-01-07,2022-23,Connacht,Sharks,24,12,0
+2023-01-07,2022-23,Ospreys,Leinster,19,24,0
+2023-01-08,2022-23,Glasgow Warriors,Stormers,24,17,0
+2023-01-27,2022-23,Scarlets,Bulls,37,28,0
+2023-01-27,2022-23,Ulster,Stormers,35,5,0
+2023-01-28,2022-23,Benetton,Munster,30,40,0
+2023-01-28,2022-23,Dragons,Glasgow Warriors,28,42,0
+2023-01-28,2022-23,Leinster,Cardiff,38,14,0
+2023-01-28,2022-23,Edinburgh,Sharks,19,22,0
+2023-01-28,2022-23,Connacht,Lions,43,24,0
+2023-01-29,2022-23,Zebre,Ospreys,24,28,0
+2023-02-04,2022-23,Sharks,Stormers,19,46,0
+2023-02-17,2022-23,Glasgow Warriors,Ulster,17,11,0
+2023-02-17,2022-23,Munster,Ospreys,58,3,0
+2023-02-18,2022-23,Lions,Sharks,7,29,0
+2023-02-18,2022-23,Bulls,Stormers,19,23,0
+2023-02-18,2022-23,Zebre,Connacht,34,57,0
+2023-02-18,2022-23,Cardiff,Benetton,30,13,0
+2023-02-18,2022-23,Scarlets,Edinburgh,42,14,0
+2023-02-18,2022-23,Leinster,Dragons,43,14,0
+2023-02-25,2022-23,Sharks,Ulster,24,31,0
+2023-02-25,2022-23,Lions,Glasgow Warriors,35,24,0
+2023-03-03,2022-23,Glasgow Warriors,Zebre,50,8,0
+2023-03-03,2022-23,Munster,Scarlets,49,42,0
+2023-03-04,2022-23,Stormers,Sharks,29,23,0
+2023-03-04,2022-23,Bulls,Lions,25,29,0
+2023-03-04,2022-23,Edinburgh,Leinster,27,47,0
+2023-03-04,2022-23,Ospreys,Benetton,20,21,0
+2023-03-04,2022-23,Cardiff,Ulster,20,42,0
+2023-03-04,2022-23,Dragons,Connacht,20,22,0
+2023-03-24,2022-23,Zebre,Cardiff,30,34,0
+2023-03-24,2022-23,Leinster,Stormers,22,22,0
+2023-03-25,2022-23,Benetton,Lions,28,32,0
+2023-03-25,2022-23,Ospreys,Dragons,37,18,0
+2023-03-25,2022-23,Connacht,Edinburgh,41,26,0
+2023-03-25,2022-23,Scarlets,Sharks,32,20,0
+2023-03-25,2022-23,Munster,Glasgow Warriors,26,38,0
+2023-03-25,2022-23,Ulster,Bulls,32,23,0
+2023-04-14,2022-23,Sharks,Benetton,43,33,0
+2023-04-14,2022-23,Glasgow Warriors,Scarlets,12,9,0
+2023-04-14,2022-23,Ulster,Dragons,40,19,0
+2023-04-15,2022-23,Bulls,Zebre,78,12,0
+2023-04-15,2022-23,Lions,Leinster,36,39,0
+2023-04-15,2022-23,Stormers,Munster,24,26,0
+2023-04-15,2022-23,Connacht,Cardiff,38,19,0
+2023-04-15,2022-23,Edinburgh,Ospreys,45,21,0
+2023-04-21,2022-23,Stormers,Benetton,38,22,0
+2023-04-21,2022-23,Ulster,Edinburgh,28,14,0
+2023-04-22,2022-23,Lions,Zebre,50,35,0
+2023-04-22,2022-23,Bulls,Leinster,62,7,0
+2023-04-22,2022-23,Dragons,Scarlets,31,14,0
+2023-04-22,2022-23,Ospreys,Cardiff,21,38,0
+2023-04-22,2022-23,Sharks,Munster,22,22,0
+2023-04-22,2022-23,Glasgow Warriors,Connacht,29,27,0
+2023-05-05,2022-23,Ulster,Connacht,10,15,1
+2023-05-06,2022-23,Stormers,Bulls,33,21,1
+2023-05-06,2022-23,Leinster,Sharks,35,5,1
+2023-05-06,2022-23,Glasgow Warriors,Munster,5,14,1
+2023-05-13,2022-23,Stormers,Connacht,43,25,1
+2023-05-13,2022-23,Leinster,Munster,15,16,1
+2023-05-27,2022-23,Stormers,Munster,14,19,1
+2023-10-21,2023-24,Zebre,Ulster,36,40,0
+2023-10-21,2023-24,Connacht,Ospreys,34,26,0
+2023-10-21,2023-24,Dragons,Edinburgh,17,22,0
+2023-10-21,2023-24,Lions,Stormers,33,35,0
+2023-10-21,2023-24,Cardiff,Benetton,22,23,0
+2023-10-21,2023-24,Munster,Sharks,34,21,0
+2023-10-22,2023-24,Bulls,Scarlets,63,21,0
+2023-10-22,2023-24,Glasgow Warriors,Leinster,43,25,0
+2023-10-28,2023-24,Ospreys,Zebre,34,31,0
+2023-10-28,2023-24,Connacht,Glasgow Warriors,34,26,0
+2023-10-28,2023-24,Stormers,Scarlets,52,7,0
+2023-10-28,2023-24,Leinster,Sharks,34,13,0
+2023-10-28,2023-24,Edinburgh,Lions,17,16,0
+2023-10-29,2023-24,Benetton,Munster,13,13,0
+2023-10-29,2023-24,Dragons,Cardiff,9,16,0
+2023-10-29,2023-24,Ulster,Bulls,26,19,0
+2023-11-03,2023-24,Glasgow Warriors,Stormers,20,9,0
+2023-11-03,2023-24,Ospreys,Sharks,19,5,0
+2023-11-04,2023-24,Zebre,Bulls,29,54,0
+2023-11-04,2023-24,Leinster,Edinburgh,36,27,0
+2023-11-04,2023-24,Munster,Dragons,45,14,0
+2023-11-04,2023-24,Scarlets,Cardiff,31,25,0
+2023-11-04,2023-24,Connacht,Ulster,22,20,0
+2023-11-05,2023-24,Benetton,Lions,15,10,0
+2023-11-10,2023-24,Zebre,Sharks,12,10,0
+2023-11-10,2023-24,Cardiff,Bulls,12,18,0
+2023-11-10,2023-24,Ulster,Munster,21,14,0
+2023-11-11,2023-24,Benetton,Stormers,20,17,0
+2023-11-11,2023-24,Ospreys,Glasgow Warriors,23,31,0
+2023-11-11,2023-24,Scarlets,Lions,23,24,0
+2023-11-11,2023-24,Edinburgh,Connacht,25,22,0
+2023-11-12,2023-24,Dragons,Leinster,10,33,0
+2023-11-17,2023-24,Edinburgh,Bulls,31,23,0
+2023-11-17,2023-24,Ulster,Lions,24,17,0
+2023-11-17,2023-24,Zebre,Cardiff,22,22,0
+2023-11-18,2023-24,Sharks,Connacht,12,13,0
+2023-11-18,2023-24,Dragons,Ospreys,20,5,0
+2023-11-18,2023-24,Munster,Stormers,10,3,0
+2023-11-18,2023-24,Glasgow Warriors,Benetton,26,12,0
+2023-11-18,2023-24,Leinster,Scarlets,54,5,0
+2023-11-24,2023-24,Cardiff,Stormers,31,24,0
+2023-11-24,2023-24,Edinburgh,Benetton,22,24,0
+2023-11-25,2023-24,Lions,Zebre,61,19,0
+2023-11-25,2023-24,Bulls,Connacht,53,27,0
+2023-11-25,2023-24,Sharks,Dragons,69,14,0
+2023-11-25,2023-24,Leinster,Munster,21,16,0
+2023-11-25,2023-24,Glasgow Warriors,Ulster,33,20,0
+2023-11-26,2023-24,Ospreys,Scarlets,31,9,0
+2023-12-01,2023-24,Munster,Glasgow Warriors,40,29,0
+2023-12-02,2023-24,Bulls,Sharks,44,10,0
+2023-12-02,2023-24,Cardiff,Scarlets,23,29,0
+2023-12-02,2023-24,Lions,Dragons,49,24,0
+2023-12-02,2023-24,Stormers,Zebre,31,7,0
+2023-12-02,2023-24,Ulster,Edinburgh,24,27,0
+2023-12-02,2023-24,Benetton,Ospreys,18,13,0
+2023-12-02,2023-24,Connacht,Leinster,22,24,0
+2023-12-22,2023-24,Glasgow Warriors,Edinburgh,22,10,0
+2023-12-22,2023-24,Ulster,Connacht,20,19,0
+2023-12-23,2023-24,Zebre,Benetton,24,31,0
+2023-12-23,2023-24,Stormers,Bulls,26,20,0
+2023-12-26,2023-24,Cardiff,Dragons,55,21,0
+2023-12-26,2023-24,Scarlets,Ospreys,11,25,0
+2023-12-26,2023-24,Munster,Leinster,3,9,0
+2023-12-30,2023-24,Benetton,Zebre,36,14,0
+2023-12-30,2023-24,Edinburgh,Glasgow Warriors,19,14,0
+2023-12-30,2023-24,Stormers,Sharks,16,15,0
+2024-01-01,2023-24,Connacht,Munster,22,9,0
+2024-01-01,2023-24,Ospreys,Cardiff,27,21,0
+2024-01-01,2023-24,Dragons,Scarlets,13,12,0
+2024-01-01,2023-24,Leinster,Ulster,21,22,0
+2024-01-06,2023-24,Sharks,Lions,18,20,0
+2024-01-27,2023-24,Bulls,Lions,30,28,0
+2024-02-16,2023-24,Scarlets,Munster,7,42,0
+2024-02-16,2023-24,Zebre,Edinburgh,19,24,0
+2024-02-17,2023-24,Lions,Bulls,10,25,0
+2024-02-17,2023-24,Leinster,Benetton,47,18,0
+2024-02-17,2023-24,Sharks,Stormers,21,25,0
+2024-02-17,2023-24,Cardiff,Connacht,12,16,0
+2024-02-17,2023-24,Glasgow Warriors,Dragons,40,7,0
+2024-02-18,2023-24,Ospreys,Ulster,19,17,0
+2024-03-01,2023-24,Edinburgh,Ospreys,19,15,0
+2024-03-01,2023-24,Munster,Zebre,45,29,0
+2024-03-02,2023-24,Lions,Sharks,40,10,0
+2024-03-02,2023-24,Benetton,Glasgow Warriors,9,19,0
+2024-03-02,2023-24,Bulls,Stormers,40,22,0
+2024-03-02,2023-24,Connacht,Scarlets,26,10,0
+2024-03-02,2023-24,Cardiff,Leinster,20,33,0
+2024-03-02,2023-24,Ulster,Dragons,49,26,0
+2024-03-22,2023-24,Glasgow Warriors,Cardiff,17,13,0
+2024-03-22,2023-24,Ospreys,Munster,17,27,0
+2024-03-23,2023-24,Sharks,Ulster,22,12,0
+2024-03-23,2023-24,Scarlets,Benetton,16,13,0
+2024-03-23,2023-24,Stormers,Edinburgh,43,21,0
+2024-03-23,2023-24,Connacht,Lions,14,38,0
+2024-03-23,2023-24,Dragons,Bulls,10,31,0
+2024-03-23,2023-24,Zebre,Leinster,7,31,0
+2024-03-29,2023-24,Dragons,Zebre,20,13,0
+2024-03-29,2023-24,Leinster,Bulls,47,14,0
+2024-03-30,2023-24,Benetton,Connacht,18,14,0
+2024-03-30,2023-24,Sharks,Edinburgh,23,13,0
+2024-03-30,2023-24,Ospreys,Lions,36,21,0
+2024-03-30,2023-24,Stormers,Ulster,13,7,0
+2024-03-30,2023-24,Munster,Cardiff,20,15,0
+2024-03-30,2023-24,Scarlets,Glasgow Warriors,3,45,0
+2024-04-19,2023-24,Glasgow Warriors,Sharks,21,10,0
+2024-04-19,2023-24,Ulster,Cardiff,19,17,0
+2024-04-20,2023-24,Benetton,Dragons,36,19,0
+2024-04-20,2023-24,Lions,Leinster,44,12,0
+2024-04-20,2023-24,Bulls,Munster,22,27,0
+2024-04-20,2023-24,Stormers,Ospreys,21,27,0
+2024-04-20,2023-24,Connacht,Zebre,54,16,0
+2024-04-20,2023-24,Edinburgh,Scarlets,43,18,0
+2024-04-26,2023-24,Scarlets,Sharks,27,32,0
+2024-04-26,2023-24,Ulster,Benetton,38,34,0
+2024-04-27,2023-24,Zebre,Glasgow Warriors,9,40,0
+2024-04-27,2023-24,Bulls,Ospreys,61,24,0
+2024-04-27,2023-24,Cardiff,Edinburgh,7,24,0
+2024-04-27,2023-24,Lions,Munster,13,33,0
+2024-04-27,2023-24,Stormers,Leinster,42,12,0
+2024-04-27,2023-24,Dragons,Connacht,27,34,0
+2024-05-10,2023-24,Dragons,Stormers,21,44,0
+2024-05-10,2023-24,Edinburgh,Zebre,40,14,0
+2024-05-11,2023-24,Bulls,Glasgow Warriors,40,34,0
+2024-05-11,2023-24,Scarlets,Ulster,20,31,0
+2024-05-11,2023-24,Sharks,Benetton,24,25,0
+2024-05-11,2023-24,Lions,Cardiff,34,13,0
+2024-05-11,2023-24,Munster,Connacht,47,12,0
+2024-05-11,2023-24,Leinster,Ospreys,61,14,0
+2024-05-17,2023-24,Edinburgh,Munster,26,29,0
+2024-05-17,2023-24,Zebre,Scarlets,18,32,0
+2024-05-18,2023-24,Bulls,Benetton,56,35,0
+2024-05-18,2023-24,Ospreys,Dragons,26,13,0
+2024-05-18,2023-24,Lions,Glasgow Warriors,44,21,0
+2024-05-18,2023-24,Connacht,Stormers,12,16,0
+2024-05-18,2023-24,Sharks,Cardiff,14,36,0
+2024-05-18,2023-24,Ulster,Leinster,23,21,0
+2024-05-31,2023-24,Glasgow Warriors,Zebre,38,26,0
+2024-05-31,2023-24,Leinster,Connacht,33,7,0
+2024-06-01,2023-24,Stormers,Lions,29,24,0
+2024-06-01,2023-24,Benetton,Edinburgh,31,6,0
+2024-06-01,2023-24,Scarlets,Dragons,32,15,0
+2024-06-01,2023-24,Sharks,Bulls,14,26,0
+2024-06-01,2023-24,Munster,Ulster,29,24,0
+2024-06-01,2023-24,Cardiff,Ospreys,29,33,0
+2024-06-07,2023-24,Munster,Ospreys,23,7,1
+2024-06-08,2023-24,Bulls,Benetton,30,23,1
+2024-06-08,2023-24,Leinster,Ulster,43,20,1
+2024-06-08,2023-24,Glasgow Warriors,Stormers,27,10,1
+2024-06-15,2023-24,Bulls,Leinster,25,20,1
+2024-06-15,2023-24,Munster,Glasgow Warriors,10,17,1
+2024-06-22,2023-24,Bulls,Glasgow Warriors,16,21,1
+2024-09-20,2024-25,Cardiff,Zebre,22,17,0
+2024-09-20,2024-25,Edinburgh,Leinster,31,33,0
+2024-09-21,2024-25,Dragons,Ospreys,23,21,0
+2024-09-21,2024-25,Munster,Connacht,35,33,0
+2024-09-21,2024-25,Benetton,Scarlets,20,20,0
+2024-09-21,2024-25,Ulster,Glasgow Warriors,20,19,0
+2024-09-27,2024-25,Glasgow Warriors,Benetton,42,10,0
+2024-09-27,2024-25,Leinster,Dragons,34,6,0
+2024-09-28,2024-25,Lions,Ulster,35,22,0
+2024-09-28,2024-25,Bulls,Edinburgh,22,16,0
+2024-09-28,2024-25,Zebre,Munster,42,33,0
+2024-09-28,2024-25,Scarlets,Cardiff,15,24,0
+2024-09-28,2024-25,Connacht,Sharks,36,30,0
+2024-09-28,2024-25,Ospreys,Stormers,37,24,0
+2024-10-04,2024-25,Cardiff,Glasgow Warriors,36,52,0
+2024-10-04,2024-25,Scarlets,Connacht,23,24,0
+2024-10-05,2024-25,Lions,Edinburgh,55,21,0
+2024-10-05,2024-25,Bulls,Ulster,47,21,0
+2024-10-05,2024-25,Benetton,Leinster,5,35,0
+2024-10-05,2024-25,Dragons,Sharks,30,33,0
+2024-10-05,2024-25,Munster,Ospreys,23,0,0
+2024-10-05,2024-25,Zebre,Stormers,5,36,0
+2024-10-11,2024-25,Glasgow Warriors,Zebre,33,3,0
+2024-10-12,2024-25,Benetton,Sharks,38,10,0
+2024-10-12,2024-25,Cardiff,Scarlets,19,25,0
+2024-10-12,2024-25,Edinburgh,Stormers,38,7,0
+2024-10-12,2024-25,Leinster,Munster,26,12,0
+2024-10-12,2024-25,Ospreys,Bulls,19,29,0
+2024-10-12,2024-25,Ulster,Connacht,32,27,0
+2024-10-13,2024-25,Dragons,Lions,19,23,0
+2024-10-18,2024-25,Scarlets,Bulls,23,22,0
+2024-10-18,2024-25,Ulster,Ospreys,36,12,0
+2024-10-19,2024-25,Zebre,Lions,9,10,0
+2024-10-19,2024-25,Sharks,Glasgow Warriors,28,24,0
+2024-10-19,2024-25,Stormers,Munster,34,19,0
+2024-10-19,2024-25,Edinburgh,Cardiff,27,8,0
+2024-10-19,2024-25,Connacht,Leinster,12,33,0
+2024-10-19,2024-25,Dragons,Benetton,21,31,0
+2024-10-25,2024-25,Benetton,Bulls,15,17,0
+2024-10-25,2024-25,Scarlets,Zebre,30,8,0
+2024-10-26,2024-25,Stormers,Glasgow Warriors,17,28,0
+2024-10-26,2024-25,Ospreys,Edinburgh,22,13,0
+2024-10-26,2024-25,Sharks,Munster,41,24,0
+2024-10-26,2024-25,Leinster,Lions,24,6,0
+2024-10-26,2024-25,Cardiff,Ulster,21,19,0
+2024-10-26,2024-25,Connacht,Dragons,31,7,0
+2024-11-29,2024-25,Glasgow Warriors,Scarlets,17,15,0
+2024-11-29,2024-25,Ulster,Leinster,20,27,0
+2024-11-30,2024-25,Sharks,Stormers,21,15,0
+2024-11-30,2024-25,Cardiff,Dragons,31,23,0
+2024-11-30,2024-25,Connacht,Bulls,14,28,0
+2024-11-30,2024-25,Edinburgh,Benetton,50,33,0
+2024-11-30,2024-25,Munster,Lions,17,10,0
+2024-11-30,2024-25,Zebre,Ospreys,22,17,0
+2024-12-20,2024-25,Ulster,Munster,19,22,0
+2024-12-21,2024-25,Benetton,Zebre,11,10,0
+2024-12-21,2024-25,Stormers,Lions,29,10,0
+2024-12-21,2024-25,Sharks,Bulls,20,17,0
+2024-12-21,2024-25,Ospreys,Scarlets,23,22,0
+2024-12-21,2024-25,Leinster,Connacht,20,12,0
+2024-12-22,2024-25,Glasgow Warriors,Edinburgh,33,14,0
+2024-12-26,2024-25,Dragons,Cardiff,22,24,0
+2024-12-27,2024-25,Munster,Leinster,7,28,0
+2024-12-28,2024-25,Edinburgh,Glasgow Warriors,10,7,0
+2024-12-28,2024-25,Stormers,Sharks,24,20,0
+2024-12-28,2024-25,Zebre,Benetton,12,24,0
+2024-12-28,2024-25,Connacht,Ulster,7,17,0
+2025-01-01,2024-25,Cardiff,Ospreys,13,13,0
+2025-01-01,2024-25,Scarlets,Dragons,32,15,0
+2025-01-24,2024-25,Ospreys,Benetton,43,0,0
+2025-01-25,2024-25,Lions,Bulls,22,35,0
+2025-01-25,2024-25,Scarlets,Edinburgh,30,24,0
+2025-01-25,2024-25,Leinster,Stormers,36,12,0
+2025-01-25,2024-25,Cardiff,Sharks,22,42,0
+2025-01-25,2024-25,Dragons,Munster,19,38,0
+2025-01-26,2024-25,Glasgow Warriors,Connacht,22,19,0
+2025-01-26,2024-25,Ulster,Zebre,14,15,0
+2025-02-08,2024-25,Stormers,Bulls,32,33,0
+2025-02-14,2024-25,Edinburgh,Zebre,17,22,0
+2025-02-14,2024-25,Ospreys,Leinster,19,22,0
+2025-02-15,2024-25,Lions,Stormers,30,23,0
+2025-02-15,2024-25,Bulls,Sharks,19,29,0
+2025-02-15,2024-25,Benetton,Ulster,34,19,0
+2025-02-15,2024-25,Munster,Scarlets,29,8,0
+2025-02-15,2024-25,Connacht,Cardiff,24,19,0
+2025-02-16,2024-25,Dragons,Glasgow Warriors,20,45,0
+2025-02-22,2024-25,Bulls,Lions,31,19,0
+2025-02-28,2024-25,Munster,Edinburgh,28,34,0
+2025-02-28,2024-25,Zebre,Dragons,31,21,0
+2025-03-01,2024-25,Lions,Sharks,38,14,0
+2025-03-01,2024-25,Leinster,Cardiff,42,24,0
+2025-03-01,2024-25,Bulls,Stormers,16,19,0
+2025-03-01,2024-25,Ulster,Scarlets,30,28,0
+2025-03-01,2024-25,Connacht,Benetton,38,30,0
+2025-03-01,2024-25,Glasgow Warriors,Ospreys,31,32,0
+2025-03-08,2024-25,Sharks,Lions,25,22,0
+2025-03-21,2024-25,Cardiff,Lions,20,17,0
+2025-03-21,2024-25,Glasgow Warriors,Munster,28,25,0
+2025-03-22,2024-25,Sharks,Zebre,35,34,0
+2025-03-22,2024-25,Benetton,Edinburgh,21,18,0
+2025-03-22,2024-25,Bulls,Leinster,21,20,0
+2025-03-22,2024-25,Scarlets,Stormers,17,29,0
+2025-03-22,2024-25,Dragons,Ulster,30,34,0
+2025-03-22,2024-25,Ospreys,Connacht,43,40,0
+2025-03-28,2024-25,Edinburgh,Dragons,38,5,0
+2025-03-28,2024-25,Ulster,Stormers,38,34,0
+2025-03-29,2024-25,Bulls,Zebre,63,24,0
+2025-03-29,2024-25,Connacht,Munster,24,30,0
+2025-03-29,2024-25,Scarlets,Ospreys,38,22,0
+2025-03-29,2024-25,Sharks,Leinster,7,10,0
+2025-03-29,2024-25,Benetton,Cardiff,20,19,0
+2025-03-29,2024-25,Glasgow Warriors,Lions,42,0,0
+2025-04-18,2024-25,Edinburgh,Sharks,17,18,0
+2025-04-19,2024-25,Lions,Benetton,31,42,0
+2025-04-19,2024-25,Ospreys,Cardiff,19,36,0
+2025-04-19,2024-25,Stormers,Connacht,34,29,0
+2025-04-19,2024-25,Munster,Bulls,13,16,0
+2025-04-19,2024-25,Dragons,Scarlets,23,31,0
+2025-04-19,2024-25,Leinster,Ulster,41,17,0
+2025-04-19,2024-25,Zebre,Glasgow Warriors,6,14,0
+2025-04-25,2024-25,Cardiff,Munster,26,21,0
+2025-04-25,2024-25,Glasgow Warriors,Bulls,19,26,0
+2025-04-25,2024-25,Zebre,Edinburgh,25,25,0
+2025-04-26,2024-25,Lions,Connacht,26,7,0
+2025-04-26,2024-25,Ospreys,Dragons,57,24,0
+2025-04-26,2024-25,Scarlets,Leinster,35,22,0
+2025-04-26,2024-25,Stormers,Benetton,56,5,0
+2025-04-26,2024-25,Ulster,Sharks,19,22,0
+2025-05-09,2024-25,Sharks,Ospreys,29,10,0
+2025-05-09,2024-25,Munster,Ulster,38,20,0
+2025-05-10,2024-25,Bulls,Cardiff,45,21,0
+2025-05-10,2024-25,Benetton,Glasgow Warriors,33,7,0
+2025-05-10,2024-25,Leinster,Zebre,76,5,0
+2025-05-10,2024-25,Stormers,Dragons,48,12,0
+2025-05-10,2024-25,Connacht,Edinburgh,21,31,0
+2025-05-11,2024-25,Lions,Scarlets,19,32,0
+2025-05-16,2024-25,Stormers,Cardiff,34,24,0
+2025-05-16,2024-25,Edinburgh,Ulster,47,17,0
+2025-05-16,2024-25,Munster,Benetton,30,21,0
+2025-05-17,2024-25,Bulls,Dragons,55,15,0
+2025-05-17,2024-25,Lions,Ospreys,29,28,0
+2025-05-17,2024-25,Zebre,Connacht,12,22,0
+2025-05-17,2024-25,Sharks,Scarlets,12,3,0
+2025-05-17,2024-25,Leinster,Glasgow Warriors,13,5,0
+2025-05-30,2024-25,Glasgow Warriors,Stormers,36,18,1
+2025-05-31,2024-25,Bulls,Edinburgh,42,33,1
+2025-05-31,2024-25,Leinster,Scarlets,33,21,1
+2025-05-31,2024-25,Sharks,Munster,24,24,1
+2025-06-07,2024-25,Leinster,Glasgow Warriors,37,19,1
+2025-06-07,2024-25,Bulls,Sharks,25,13,1
+2025-06-14,2024-25,Leinster,Bulls,32,7,1
+2025-09-26,2025-26,Stormers,Leinster,35,0,0
+2025-09-26,2025-26,Glasgow Warriors,Sharks,35,19,0
+2025-09-26,2025-26,Ulster,Dragons,42,21,0
+2025-09-27,2025-26,Bulls,Ospreys,53,40,0
+2025-09-27,2025-26,Zebre,Edinburgh,31,28,0
+2025-09-27,2025-26,Scarlets,Munster,21,34,0
+2025-09-27,2025-26,Cardiff,Lions,33,20,0
+2025-09-27,2025-26,Connacht,Benetton,26,15,0
+2025-10-03,2025-26,Stormers,Ospreys,26,10,0
+2025-10-03,2025-26,Dragons,Sharks,17,17,0
+2025-10-04,2025-26,Benetton,Glasgow Warriors,16,14,0
+2025-10-04,2025-26,Bulls,Leinster,39,31,0
+2025-10-04,2025-26,Munster,Cardiff,23,20,0
+2025-10-05,2025-26,Zebre,Lions,22,20,0
+2025-10-10,2025-26,Munster,Edinburgh,20,19,0
+2025-10-10,2025-26,Scarlets,Stormers,0,34,0
+2025-10-11,2025-26,Benetton,Lions,41,15,0
+2025-10-11,2025-26,Ospreys,Zebre,24,0,0
+2025-10-11,2025-26,Glasgow Warriors,Dragons,49,0,0
+2025-10-11,2025-26,Leinster,Sharks,31,5,0
+2025-10-11,2025-26,Cardiff,Connacht,14,8,0
+2025-10-11,2025-26,Ulster,Bulls,28,7,0
+2025-10-17,2025-26,Connacht,Bulls,27,28,0
+2025-10-17,2025-26,Dragons,Cardiff,17,24,0
+2025-10-17,2025-26,Edinburgh,Benetton,43,0,0
+2025-10-18,2025-26,Lions,Scarlets,29,18,0
+2025-10-18,2025-26,Sharks,Ulster,26,34,0
+2025-10-18,2025-26,Leinster,Munster,14,31,0
+2025-10-18,2025-26,Ospreys,Glasgow Warriors,17,42,0
+2025-10-18,2025-26,Zebre,Stormers,13,31,0
+2025-10-24,2025-26,Glasgow Warriors,Bulls,21,12,0
+2025-10-25,2025-26,Lions,Ulster,49,31,0
+2025-10-25,2025-26,Sharks,Scarlets,29,19,0
+2025-10-25,2025-26,Benetton,Stormers,16,31,0
+2025-10-25,2025-26,Dragons,Ospreys,19,19,0
+2025-10-25,2025-26,Leinster,Zebre,50,26,0
+2025-10-25,2025-26,Cardiff,Edinburgh,20,19,0
+2025-10-25,2025-26,Munster,Connacht,17,15,0
+2025-11-28,2025-26,Dragons,Leinster,10,24,0
+2025-11-28,2025-26,Ulster,Benetton,47,13,0
+2025-11-29,2025-26,Bulls,Lions,33,43,0
+2025-11-29,2025-26,Zebre,Cardiff,14,29,0
+2025-11-29,2025-26,Edinburgh,Ospreys,19,17,0
+2025-11-29,2025-26,Munster,Stormers,21,27,0
+2025-11-29,2025-26,Connacht,Sharks,44,17,0
+2025-11-29,2025-26,Scarlets,Glasgow Warriors,23,0,0
+2025-12-19,2025-26,Cardiff,Scarlets,17,21,0
+2025-12-19,2025-26,Leinster,Ulster,24,20,0
+2025-12-20,2025-26,Stormers,Lions,34,27,0
+2025-12-20,2025-26,Benetton,Zebre,21,15,0
+2025-12-20,2025-26,Glasgow Warriors,Edinburgh,24,12,0
+2025-12-20,2025-26,Sharks,Bulls,21,12,0
+2025-12-20,2025-26,Ospreys,Munster,10,26,0
+2025-12-20,2025-26,Dragons,Connacht,48,28,0
+2025-12-26,2025-26,Cardiff,Dragons,22,19,0
+2025-12-26,2025-26,Scarlets,Ospreys,19,26,0
+2025-12-27,2025-26,Zebre,Benetton,23,37,0
+2025-12-27,2025-26,Edinburgh,Glasgow Warriors,3,21,0
+2025-12-27,2025-26,Connacht,Ulster,24,29,0
+2025-12-27,2025-26,Munster,Leinster,8,13,0
+2026-01-01,2025-26,Dragons,Scarlets,28,5,0
+2026-01-01,2025-26,Ospreys,Cardiff,33,22,0
+2026-01-02,2025-26,Ulster,Munster,28,3,0
+2026-01-03,2025-26,Sharks,Lions,22,23,0
+2026-01-03,2025-26,Stormers,Bulls,13,8,0
+2026-01-03,2025-26,Benetton,Edinburgh,14,15,0
+2026-01-03,2025-26,Leinster,Connacht,52,17,0
+2026-01-03,2025-26,Glasgow Warriors,Zebre,47,10,0
+2026-01-23,2025-26,Edinburgh,Bulls,17,19,0
+2026-01-23,2025-26,Munster,Dragons,22,20,0
+2026-01-23,2025-26,Ospreys,Lions,24,24,0
+2026-01-24,2025-26,Scarlets,Ulster,27,22,0
+2026-01-24,2025-26,Connacht,Leinster,23,34,0
+2026-01-24,2025-26,Stormers,Sharks,19,30,0
+2026-01-24,2025-26,Cardiff,Benetton,17,8,0
+2026-01-24,2025-26,Zebre,Glasgow Warriors,21,26,0
+2026-01-30,2025-26,Benetton,Scarlets,20,20,0
+2026-01-30,2025-26,Glasgow Warriors,Munster,31,22,0
+2026-01-31,2025-26,Lions,Bulls,17,52,0
+2026-01-31,2025-26,Sharks,Stormers,36,24,0
+2026-01-31,2025-26,Zebre,Connacht,15,31,0
+2026-01-31,2025-26,Leinster,Edinburgh,28,20,0
+2026-01-31,2025-26,Ospreys,Dragons,19,13,0
+2026-01-31,2025-26,Ulster,Cardiff,21,14,0
+2026-02-21,2025-26,Lions,Sharks,34,22,0
+2026-02-27,2025-26,Cardiff,Leinster,8,7,0
+2026-02-27,2025-26,Edinburgh,Scarlets,24,19,0
+2026-02-28,2025-26,Lions,Stormers,24,10,0
+2026-02-28,2025-26,Connacht,Glasgow Warriors,15,10,0
+2026-02-28,2025-26,Bulls,Sharks,41,12,0
+2026-02-28,2025-26,Dragons,Benetton,15,15,0
+2026-02-28,2025-26,Munster,Zebre,21,7,0
+2026-02-28,2025-26,Ospreys,Ulster,21,10,0
+2026-03-13,2025-26,Connacht,Scarlets,31,14,0
+2026-03-13,2025-26,Edinburgh,Ulster,19,40,0
+2026-03-14,2025-26,Bulls,Stormers,19,32,0
+2026-03-20,2025-26,Bulls,Cardiff,40,7,0
+2026-03-20,2025-26,Scarlets,Zebre,36,17,0
+2026-03-20,2025-26,Ulster,Connacht,19,26,0
+2026-03-21,2025-26,Lions,Edinburgh,54,17,0
+2026-03-21,2025-26,Benetton,Ospreys,31,19,0
+2026-03-21,2025-26,Sharks,Munster,45,0,0
+2026-03-21,2025-26,Glasgow Warriors,Leinster,38,17,0
+2026-03-22,2025-26,Stormers,Dragons,29,21,0
+2026-03-27,2025-26,Sharks,Cardiff,21,15,0
+2026-03-27,2025-26,Glasgow Warriors,Benetton,31,10,0
+2026-03-27,2025-26,Leinster,Scarlets,36,19,0
+2026-03-28,2025-26,Bulls,Munster,34,31,0
+2026-03-28,2025-26,Connacht,Ospreys,21,14,0
+2026-03-28,2025-26,Lions,Dragons,42,26,0
+2026-03-28,2025-26,Stormers,Edinburgh,33,14,0
+2026-03-28,2025-26,Zebre,Ulster,12,28,0
+2026-04-17,2025-26,Dragons,Bulls,7,47,0
+2026-04-17,2025-26,Edinburgh,Zebre,31,30,0
+2026-04-17,2025-26,Ulster,Leinster,21,29,0
+2026-04-18,2025-26,Stormers,Connacht,24,33,0
+2026-04-18,2025-26,Lions,Glasgow Warriors,54,12,0
+2026-04-18,2025-26,Scarlets,Cardiff,24,28,0
+2026-04-18,2025-26,Benetton,Munster,15,45,0
+2026-04-18,2025-26,Ospreys,Sharks,21,17,0
+2026-04-24,2025-26,Cardiff,Ospreys,24,21,0
+2026-04-24,2025-26,Edinburgh,Sharks,33,28,0
+2026-04-24,2025-26,Zebre,Dragons,18,19,0
+2026-04-25,2025-26,Stormers,Glasgow Warriors,48,12,0
+2026-04-25,2025-26,Lions,Connacht,33,21,0
+2026-04-25,2025-26,Munster,Ulster,41,14,0
+2026-04-25,2025-26,Benetton,Leinster,29,26,0
+2026-04-25,2025-26,Scarlets,Bulls,21,23,0
+2026-05-08,2025-26,Glasgow Warriors,Cardiff,40,17,0
+2026-05-08,2025-26,Ulster,Stormers,38,38,0
+2026-05-09,2025-26,Bulls,Zebre,54,19,0
+2026-05-09,2025-26,Sharks,Benetton,46,7,0
+2026-05-09,2025-26,Leinster,Lions,31,7,0
+2026-05-09,2025-26,Ospreys,Scarlets,27,20,0
+2026-05-09,2025-26,Connacht,Munster,26,7,0
+2026-05-09,2025-26,Dragons,Edinburgh,15,24,0
+2026-05-15,2025-26,Cardiff,Stormers,22,16,0
+2026-05-15,2025-26,Edinburgh,Connacht,5,26,0
+2026-05-15,2025-26,Ulster,Glasgow Warriors,22,26,0
+2026-05-16,2025-26,Sharks,Zebre,54,19,0
+2026-05-16,2025-26,Bulls,Benetton,45,19,0
+2026-05-16,2025-26,Leinster,Ospreys,68,14,0
+2026-05-16,2025-26,Scarlets,Dragons,35,35,0
+2026-05-16,2025-26,Munster,Lions,24,17,0
+2026-05-29,2025-26,Glasgow Warriors,Connacht,33,21,1
+2026-05-30,2025-26,Bulls,Munster,45,14,1
+2026-05-30,2025-26,Stormers,Cardiff,44,21,1
+2026-05-30,2025-26,Leinster,Lions,59,10,1
+2026-06-06,2025-26,Glasgow Warriors,Bulls,21,22,1
+2026-06-06,2025-26,Leinster,Stormers,20,11,1
+2026-06-19,2025-26,Leinster,Bulls,36,7,1
